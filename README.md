@@ -7,8 +7,8 @@ My name is Marco and be more then welcome to join me on this journey
 <br>
 
 <h2 align="center"> &nbsp;📊Stats! </h2>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mmiguelo&show_icons=true&locale=en&theme=slateorange" alt="mmiguelo" /> 
-<align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mmiguelo&show_icons=true&locale=en&theme=slateorange&layout=compact" alt="mmiguelo" />
+<p align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmiguelo&show_icons=true&locale=en&theme=slateorange" alt="mmiguelo" /> 
+<align="right"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmiguelo&show_icons=true&locale=en&theme=slateorange&layout=compact" alt="mmiguelo" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=faa627&text=Dive%20Below!&section=footer&fontAlignY=69&animation=fadeIn&fontColor=ffffff" />
