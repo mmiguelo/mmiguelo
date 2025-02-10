@@ -8,11 +8,16 @@ My name is Marco and be more then welcome to join me on this journey
 
 <h2 align="center"> &nbsp;📊Stats! </h2>
 
-<div align="center">
-  
+<div align="center"> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmiguelo&show_icons=true&locale=en&theme=slateorange" alt="mmiguelo" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmiguelo&show_icons=true&locale=en&theme=slateorange&layout=compact" alt="mmiguelo" />
-  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmiguelo&show_icons=true&locale=en&theme=slateorange&layout=compact" alt="mmiguelo" /> 
+</div>
+
+<div style="display: inline_block"><br>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img align="center" alt="miguelote-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" />
+<img align="center" alt="miguelote-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 </div>
 
 <p align="center">
