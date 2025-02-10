@@ -5,10 +5,15 @@ on:
     - cron: "* */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+  pages: write
+  
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    
     steps:
       # Snake Animation
       - uses: Platane/snk@master
