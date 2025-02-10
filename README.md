@@ -22,6 +22,10 @@ My name is Marco and be more then welcome to join me on this journey
 
 ##
 
+<div>
+
+</div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=faa627&text=Dive%20Below!&section=footer&fontAlignY=69&animation=fadeIn&fontColor=ffffff" />
 </p>
