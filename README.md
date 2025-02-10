@@ -23,7 +23,7 @@ My name is Marco and be more then welcome to join me on this journey
 ##
 
 <div>
-
+![Snake animation](https://github.com/mmiguelo/mmiguelo/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <p align="center">
