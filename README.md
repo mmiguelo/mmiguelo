@@ -1,8 +1,9 @@
-## Welcome to my Github House.
-My name is Marco and be more then welcome to join me on this journey
+## Welcome to my humble Github house.
+I'm Marco and be more then welcome to join me on this journey of learning how to code
 
   - 🔭 I’m currently working on 42 project named MiniShell
-  - 🌱 Currently learning C language
+  - 🌱 Also i'm currently learning python
+  - 💡 One side project is trying to create function to automate my house through phone
   - 📫 You can contact me on: marco_miguelote@hotmail.com
 <br>
 
