@@ -1,5 +1,5 @@
 ## Welcome to my humble Github house.
-I'm Marco and be more then welcome to join me on this journey of learning how to code
+I'm Marco, and you're more than welcome to join me on my coding journey!
 
   - 🔭 I’m currently working on 42 project named MiniShell
   - 🌱 Also i'm currently learning python
