@@ -31,8 +31,10 @@ I'm Marco and be more then welcome to join me on this journey of learning how to
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mmiguelo/mmiguelo/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-if you like this snake animation check <a href="https://github.com/mmiguelo/profile_snake_animation">here</a> on how to do it!
+if you like this 🐍 animation check <a href="https://github.com/mmiguelo/profile_snake_animation">here</a> on how to do it!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=faa627&text=Dive%20Below!&section=footer&fontAlignY=69&animation=fadeIn&fontColor=ffffff" />
 </p>
+
+
