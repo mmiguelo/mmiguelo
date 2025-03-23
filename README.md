@@ -7,11 +7,11 @@ I'm Marco and be more then welcome to join me on this journey of learning how to
   - 📫 You can contact me on: marco_miguelote@hotmail.com
 <br>
 
-<h2 align="center"> &nbsp;📊Stats! </h2>
+<h2 align="center">📊 Stats!</h2>
 
-<div align="center"> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmiguelo&show_icons=true&locale=en&theme=slateorange" alt="mmiguelo" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmiguelo&show_icons=true&locale=en&theme=slateorange&layout=compact" alt="mmiguelo" /> 
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmiguelo&show_icons=true&locale=en&theme=slateorange" alt="mmiguelo" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmiguelo&show_icons=true&locale=en&theme=slateorange&layout=compact" alt="mmiguelo" /> 
 </div>
 
 <div style="display: inline_block"><br>
