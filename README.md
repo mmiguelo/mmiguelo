@@ -2,7 +2,7 @@
 I'm Marco, and you're more than welcome to join me on my coding journey!
 
   - 🔭 I’m currently working on 42 project named MiniShell
-  - 🌱 Also i'm currently learning python
+  - 🌱 I'm also currently learning Python.
   - 💡 One side project is trying to create function to automate my house through phone
   - 📫 You can contact me on: marco_miguelote@hotmail.com
 <br>
