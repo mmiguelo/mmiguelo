@@ -31,6 +31,11 @@ I'm Marco, and you're more than welcome to join me on my coding journey!
   <img align="center" alt="miguelote-vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
 
+---
+<div align="center">
+<h3><b>Explore some of my work projects, and don't hesitate to contribute with your knowledge!</b></h3>
+  
+[![LIBFT](https://github.com/mmiguelo/42-project-badges/blob/main/badges/libftm.png)](https://github.com/mmiguelo/LIBFT) [![FT_PRINTF](https://github.com/mmiguelo/42-project-badges/blob/main/badges/ft_printfe.png)](https://github.com/mmiguelo/ft_printf) [![BORN2BEROOT](https://github.com/mmiguelo/42-project-badges/blob/main/badges/born2berootm.png)]() [![GNL](https://github.com/mmiguelo/42-project-badges/blob/main/badges/get_next_linee.png)](https://github.com/mmiguelo/Get_next_Line) [![SO_LONG](https://github.com/mmiguelo/42-project-badges/blob/main/badges/so_longe.png)](https://github.com/mmiguelo/so_long) [![PUSH_SWAP](https://github.com/mmiguelo/42-project-badges/blob/main/badges/push_swape.png)](https://github.com/mmiguelo/Push_Swap) [![PIPEX](https://github.com/mmiguelo/42-project-badges/blob/main/badges/pipexm.png)](https://github.com/mmiguelo/pipex) [![MINISHELL](https://github.com/mmiguelo/42-project-badges/blob/main/badges/minishelln.png)](https://github.com/mmiguelo/minishell)
 
 <div>
 <picture>
@@ -41,12 +46,6 @@ I'm Marco, and you're more than welcome to join me on my coding journey!
 </div>
 
 if you liked this 🐍 animation check <a href="https://github.com/mmiguelo/profile_snake_animation">here</a> on how to do it!
-
----
-<div align="center">
-<h3><b>Explore some of my work projects, and don't hesitate to contribute with your knowledge!</b></h3>
-  
-[![LIBFT](https://github.com/mmiguelo/42-project-badges/blob/main/badges/libftm.png)](https://github.com/mmiguelo/LIBFT) [![FT_PRINTF](https://github.com/mmiguelo/42-project-badges/blob/main/badges/ft_printfe.png)](https://github.com/mmiguelo/ft_printf) [![BORN2BEROOT](https://github.com/mmiguelo/42-project-badges/blob/main/badges/born2berootm.png)]() [![GNL](https://github.com/mmiguelo/42-project-badges/blob/main/badges/get_next_linee.png)](https://github.com/mmiguelo/Get_next_Line) [![SO_LONG](https://github.com/mmiguelo/42-project-badges/blob/main/badges/so_longe.png)](https://github.com/mmiguelo/so_long) [![PUSH_SWAP](https://github.com/mmiguelo/42-project-badges/blob/main/badges/push_swape.png)](https://github.com/mmiguelo/Push_Swap) [![PIPEX](https://github.com/mmiguelo/42-project-badges/blob/main/badges/pipexm.png)](https://github.com/mmiguelo/pipex) [![MINISHELL](https://github.com/mmiguelo/42-project-badges/blob/main/badges/minishelln.png)](https://github.com/mmiguelo/minishell)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=faa627&text=Dive%20Below!&section=footer&fontAlignY=69&animation=fadeIn&fontColor=ffffff" />
