@@ -4,7 +4,7 @@ I'm Marco, and you're more than welcome to join me on my coding journey!
   - 🔭 I’m currently working on 42 project named MiniShell
   - 🌱 I'm also currently learning Python.
   - 🏠 One of my side projects is developing a home automation app to control my house using my phone.
-  - 📫 You can contact me on: marco_miguelote@hotmail.com
+  - 📧 [Contact me via email](mailto:marco_miguelote@hotmail.com)
 <br>
 
 <h2 align="center">📊 Stats!</h2>
@@ -36,7 +36,7 @@ if you liked this 🐍 animation check <a href="https://github.com/mmiguelo/prof
 
 ---
 <div align="center">
-<h3><b>Explore some of my work projects and don't hesitate to contribute with your knowledge!</b></h3>
+<h3><b>Explore some of my work projects, and don't hesitate to contribute with your knowledge!</b></h3>
   
 [![LIBFT](https://github.com/mmiguelo/42_project_badges/blob/main/badges/libftm.png)](https://github.com/mmiguelo/LIBFT) [![FT_PRINTF](https://github.com/mmiguelo/42_project_badges/blob/main/badges/ft_printfe.png)](https://github.com/mmiguelo/ft_printf) [![BORN2BEROOT](https://github.com/mmiguelo/42_project_badges/blob/main/badges/born2berootm.png)]() [![GNL](https://github.com/mmiguelo/42_project_badges/blob/main/badges/get_next_linee.png)](https://github.com/mmiguelo/Get_next_Line) [![SO_LONG](https://github.com/mmiguelo/42_project_badges/blob/main/badges/so_longe.png)](https://github.com/mmiguelo/so_long) [![PUSH_SWAP](https://github.com/mmiguelo/42_project_badges/blob/main/badges/push_swape.png)](https://github.com/mmiguelo/Push_Swap) [![PIPEX](https://github.com/mmiguelo/42_project_badges/blob/main/badges/pipexm.png)](https://github.com/mmiguelo/pipex) [![MINISHELL](https://github.com/mmiguelo/42_project_badges/blob/main/badges/minishelln.png)]()
 
