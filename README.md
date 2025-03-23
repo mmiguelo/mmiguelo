@@ -22,7 +22,7 @@ I'm Marco and be more then welcome to join me on this journey of learning how to
 <img align="center" alt="miguelote-vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
 
-##
+---
 
 <div>
 <picture>
@@ -33,6 +33,9 @@ I'm Marco and be more then welcome to join me on this journey of learning how to
 </div>
 
 if you liked this 🐍 animation check <a href="https://github.com/mmiguelo/profile_snake_animation">here</a> on how to do it!
+
+---
+[![LIBFT](https://github.com/mmiguelo/42_project_badges/blob/main/badges/libftm.png)](https://github.com/mmiguelo/LIBFT)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=faa627&text=Dive%20Below!&section=footer&fontAlignY=69&animation=fadeIn&fontColor=ffffff" />
