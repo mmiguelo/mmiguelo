@@ -15,21 +15,21 @@ I'm Marco, and you're more than welcome to join me on my coding journey!
   - 📧 [Contact me via email](mailto:marco_miguelote@hotmail.com)
 <br>
 
-<h2 align="center">📊 Stats!
+<h3 align="center">📊 Stats!</h3>
 
+---
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmiguelo&show_icons=true&locale=en&theme=slateorange" alt="mmiguelo" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmiguelo&show_icons=true&locale=en&theme=slateorange&layout=compact" alt="mmiguelo" /> 
 </div>
-
+<br>
 <div style="display: inline_block"><br>
-<img align="center" alt="miguelote-bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-<img align="center" alt="miguelote-lua" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
-<img align="center" alt="miguelote-c" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="center" alt="miguelote-python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
-<img align="center" alt="miguelote-vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="miguelote-bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+  <img align="center" alt="miguelote-lua" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+  <img align="center" alt="miguelote-c" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="miguelote-python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
+  <img align="center" alt="miguelote-vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
-</h2>
 
 
 <div>
