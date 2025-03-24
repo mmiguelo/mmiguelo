@@ -6,7 +6,7 @@
     <img src="https://github.com/snipe/animated-gifs/blob/master/welcome-friendly/sit-with-me.gif" alt="WELCOME">
 </h3>
 
-
+<br>
 I'm Marco, and you're more than welcome to join me on my coding journey!
 
   - 🔭 I’m currently working on 42 project named MiniShell
