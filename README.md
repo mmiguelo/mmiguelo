@@ -1,11 +1,6 @@
-<h2 align="center">
-   Welcome to my humble Github house.
-</h2>
 
-<h3 align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</h3>
-
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/327af084-2cce-4c84-ba64-53cba6718a60" />
+<br>
 <br>
 I'm Marco, and you're more than welcome to join me on my coding journey!
 
