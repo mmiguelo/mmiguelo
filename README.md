@@ -18,13 +18,14 @@ I'm Marco, and you're more than welcome to join me on my coding journey!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmiguelo&show_icons=true&locale=en&theme=slateorange&layout=compact" alt="mmiguelo" /> 
 </div>
 <br>
-<div style="display: inline_block"><br>
-  <img align="center" alt="miguelote-bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-  <img align="center" alt="miguelote-lua" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
-  <img align="center" alt="miguelote-c" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="center" alt="miguelote-python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
-  <img align="center" alt="miguelote-vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-</div>
+<br>
+<p align="center">
+    <img alt="miguelote-bash" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" />
+    <img alt="miguelote-lua" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+    <img alt="miguelote-c" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
+    <img alt="miguelote-python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
+    <img alt="miguelote-vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+</p>
 
 ---
 <div align="center">
