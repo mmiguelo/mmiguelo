@@ -24,7 +24,7 @@ I'm Marco, and you're more than welcome to join me on my coding journey!
     <img alt="miguelote-lua" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" />
     <img alt="miguelote-c" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
     <img alt="miguelote-python" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
-    <img alt="miguelote-vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+    <img alt="miguelote-vscode" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" />
 </p>
 
 ---
