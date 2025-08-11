@@ -4,8 +4,8 @@
 <br>
 I'm Marco, and you're more than welcome to join me on my coding journey!
 
-  - 🔭 I’m currently working on 42 project named MiniShell
-  - 🌱 I'm also learning Python.
+  - 🔭 I’m currently working on 42 project named Cub3D
+  - 🌱 I'm also learning Embeded Systems
   - 🏠 One of my side projects is developing a home automation app to control my house using my phone.
   - 📧 [Contact me via email](mailto:marco_miguelote@hotmail.com)
 <br>
