@@ -44,9 +44,3 @@ I'm Marco, and you're more than welcome to join me on my coding journey!
 </div>
 
 if you liked this 🐍 animation check <a href="https://github.com/mmiguelo/profile_snake_animation">here</a> on how to do it!
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=faa627&text=Dive%20Below!&section=footer&fontAlignY=69&animation=fadeIn&fontColor=ffffff" />
-</p>
-
-
