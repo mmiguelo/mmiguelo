@@ -43,4 +43,4 @@ I'm Marco, and you're more than welcome to join me on my coding journey!
 </picture>
 </div>
 
-if you liked this 🐍 animation check <a href="https://github.com/mmiguelo/profile_snake_animation">here</a> on how to do it and ⭐ it!
+if you liked this 🐍 animation check <a href="https://github.com/mmiguelo/profile_snake_animation">here</a> on how to do it and <img width="93" height="28" alt="{D4ABA366-62DB-4F7F-BAB2-BBD936B906DB}" src="https://github.com/user-attachments/assets/b1704473-f9f9-49e8-b91d-45d52347a5ee" /> it
