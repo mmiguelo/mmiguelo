@@ -4,7 +4,7 @@
 <br>
 I'm Marco, and you're more than welcome to join me on my coding journey!
 
-  - 🔭 I’m currently working on 42 project named [Cub3D](https://github.com/mmiguelo/Cub3d)
+  - 🔭 I’m currently working on html projects and developing a web serv
   - 🌱 I'm also learning Embeded Systems
   - 🏠 One of my side projects is developing a home automation app to control my house using my phone.
   - 📧 [Contact me via email](mailto:marco_miguelote@hotmail.com)
