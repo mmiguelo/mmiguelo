@@ -9,7 +9,6 @@ I'm Marco, and you're more than welcome to join me on my coding journey!
   - 🏠 One of my side projects is a home automation app to control my house using my phone.
   - 📧 [Contact me via email](mailto:marco_miguelote@hotmail.com)
 <br>
-
 <details>
   <summary>Github Stats ⚡</summary>
   <br>
@@ -18,7 +17,6 @@ I'm Marco, and you're more than welcome to join me on my coding journey!
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmiguelo&show_icons=true&locale=en&theme=slateorange&layout=compact" alt="mmiguelo" />
   </p>
 </details>
-<br>
 <br>
 <p align="center">
     <img alt="bash icon" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" />
