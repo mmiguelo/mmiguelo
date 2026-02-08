@@ -13,11 +13,10 @@ I'm Marco, and you're more than welcome to join me on my coding journey!
 <details>
   <summary>Github Stats ⚡</summary>
   <br>
-
-  <div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmiguelo&show_icons=true&locale=en&theme=slateorange" alt="mmiguelo" /> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmiguelo&show_icons=true&locale=en&theme=slateorange&layout=compact" alt="mmiguelo" /> 
-  </div>
+  </p>
 </details>
 <br>
 <br>
