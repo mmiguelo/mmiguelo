@@ -26,6 +26,9 @@ I'm Marco, and you're more than welcome to join me on my coding journey!
     <img alt="lua icon" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" />
     <img alt="c icon" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
     <img alt="cpp icon" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" />
+    <img alt="html icon" height="60" width"60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
+    <img alt="javascript icon" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
+    <img alt="JQuery icon" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" />
     <img alt="python icon" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
     <img alt="vscode icon" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" />
 </p>
