@@ -1,12 +1,14 @@
 
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/327af084-2cce-4c84-ba64-53cba6718a60" />
-<br>
+<p align="center">
+  <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/327af084-2cce-4c84-ba64-53cba6718a60" />
+</p>
+
 <br>
 I'm Marco, and you're more than welcome to join me on my coding journey!
 
-  - 🔭 I’m currently working on html projects and developing a web serv
-  - 🌱 I'm also learning Embeded Systems
-  - 🏠 One of my side projects is developing a home automation app to control my house using my phone.
+  - 🔭 I’m currently working on HTML projects and developing a web server
+  - 🌱 I'm also learning Embedded Systems
+  - 🏠 One of my side projects is a home automation app to control my house using my phone.
   - 📧 [Contact me via email](mailto:marco_miguelote@hotmail.com)
 <br>
 
@@ -25,7 +27,7 @@ I'm Marco, and you're more than welcome to join me on my coding journey!
     <img alt="lua icon" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" />
     <img alt="c icon" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
     <img alt="cpp icon" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" />
-    <img alt="html icon" height="60" width"60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
+    <img alt="html icon" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
     <img alt="javascript icon" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
     <img alt="JQuery icon" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" />
     <img alt="python icon" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
@@ -38,7 +40,7 @@ I'm Marco, and you're more than welcome to join me on my coding journey!
   
 [![LIBFT](https://github.com/mmiguelo/42-project-badges/blob/main/badges/libftm.png)](https://github.com/mmiguelo/LIBFT) [![FT_PRINTF](https://github.com/mmiguelo/42-project-badges/blob/main/badges/ft_printfe.png)](https://github.com/mmiguelo/ft_printf) [![BORN2BEROOT](https://github.com/mmiguelo/42-project-badges/blob/main/badges/born2berootm.png)]() [![GNL](https://github.com/mmiguelo/42-project-badges/blob/main/badges/get_next_linee.png)](https://github.com/mmiguelo/Get_next_Line) [![SO_LONG](https://github.com/mmiguelo/42-project-badges/blob/main/badges/so_longe.png)](https://github.com/mmiguelo/so_long) [![PUSH_SWAP](https://github.com/mmiguelo/42-project-badges/blob/main/badges/push_swape.png)](https://github.com/mmiguelo/Push_Swap) [![PIPEX](https://github.com/mmiguelo/42-project-badges/blob/main/badges/pipexm.png)](https://github.com/mmiguelo/pipex) [![MINISHELL](https://github.com/mmiguelo/42-project-badges/blob/main/badges/minishelle.png)](https://github.com/mmiguelo/minishell) [![PHILO](https://github.com/mmiguelo/42-project-badges/blob/main/badges/philosopherse.png)](https://github.com/mmiguelo/philosophers) [![CUB3D](https://github.com/mmiguelo/42-project-badges/blob/main/badges/cub3dm.png)](https://github.com/mmiguelo/Cub3d) [![CPP](https://github.com/mmiguelo/42-project-badges/blob/main/badges/cppm.png)](https://github.com/mmiguelo/CPP_modules) [![INCEPTION](https://github.com/mmiguelo/42-project-badges/blob/main/badges/inceptionm.png)](https://github.com/mmiguelo/inception)
 
-<div>
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmiguelo/mmiguelo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mmiguelo/mmiguelo/output/github-contribution-grid-snake.svg">
@@ -46,4 +48,4 @@ I'm Marco, and you're more than welcome to join me on my coding journey!
 </picture>
 </div>
 
-if you liked this 🐍 animation check <a href="https://github.com/mmiguelo/profile_snake_animation">here</a> on how to do it and <img width="93" height="28" alt="{D4ABA366-62DB-4F7F-BAB2-BBD936B906DB}" src="https://github.com/user-attachments/assets/b1704473-f9f9-49e8-b91d-45d52347a5ee" /> it
+if you liked this 🐍 animation check <a href="https://github.com/mmiguelo/profile_snake_animation">here</a> to learn how to create it and <img width="93" height="28" alt="{D4ABA366-62DB-4F7F-BAB2-BBD936B906DB}" src="https://github.com/user-attachments/assets/b1704473-f9f9-49e8-b91d-45d52347a5ee" /> it
