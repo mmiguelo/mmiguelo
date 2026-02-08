@@ -1,8 +1,6 @@
-
 <p align="center">
   <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/327af084-2cce-4c84-ba64-53cba6718a60" />
 </p>
-
 <br>
 I'm Marco, and you're more than welcome to join me on my coding journey!
 
