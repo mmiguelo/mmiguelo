@@ -1,48 +1,75 @@
 <p align="center">
   <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/327af084-2cce-4c84-ba64-53cba6718a60" />
 </p>
-<br>
+
+---
+
+## 👨‍💻 About Me
+
 I’m a software developer focused on building strong foundations across systems and web development, with a particular interest in understanding how embedded systems work.
 I’m currently exploring the path of becoming a full-stack developer, combining problem-solving and creativity to build complete and impactful solutions.
 
-  - Currently collaborating on a platform featuring educational games that teach digital security concepts to students aged 6 to 20
-  - Expanding my knowledge in Embedded Systems
-  - Building a home automation application to control and monitor my house from my phone
-  - [Contact me via email](mailto:marco_miguelote@hotmail.com)
-<br>
+* 🔭 Currently collaborating on a platform featuring educational games that teach digital security concepts to students aged 6 to 20
+* 🌱 Expanding my knowledge in Embedded Systems
+* 🏠 Building a home automation application to control and monitor my house from my phone
+* 📧 [Contact me via email](mailto:marco_miguelote@hotmail.com)
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" />
+  <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
+  <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" />
+  <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
+  <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
+  <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" />
+  <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
+</p>
+
+---
+
+## 🚀 Selected Projects
+
+### 🧠 Systems & Low-Level
+
+* [minishell](https://github.com/mmiguelo/minishell) — Custom shell with parsing, execution, and process management
+* [pipex](https://github.com/mmiguelo/pipex) — Unix pipe simulation and process chaining
+* [philosophers](https://github.com/mmiguelo/philosophers) — Multithreading and synchronization (Dining Philosophers problem)
+
+### ⚙️ C Foundations & Algorithms
+
+* [libft](https://github.com/mmiguelo/LIBFT) — Custom implementation of the C standard library
+* [ft_printf](https://github.com/mmiguelo/ft_printf) — Reimplementation of printf with variadic functions
+* [get_next_line](https://github.com/mmiguelo/Get_next_Line) — Efficient file reading, line by line
+* [push_swap](https://github.com/mmiguelo/Push_Swap) — Sorting algorithm optimization with constrained operations
+
+### 🎮 Graphics & Rendering
+
+* [cub3d](https://github.com/mmiguelo/Cub3d) — Raycasting engine inspired by Wolfenstein 3D
+
+### 🌐 Web & Infrastructure
+
+* [webserv](https://github.com/mmiguelo/Webserv) — HTTP server built in C++
+
+---
+
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary>📊 GitHub Stats</summary>
   <br>
   <p align="center">
     <img height="180em" src="./profile/stats.svg" />
     <img height="180em" src="./profile/top-langs.svg" /> 
   </p>
 </details>
-<br>
-<p align="center">
-    <img alt="bash icon" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" />
-    <img alt="lua icon" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" />
-    <img alt="c icon" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
-    <img alt="cpp icon" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" />
-    <img alt="html icon" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
-    <img alt="javascript icon" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
-    <img alt="JQuery icon" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" />
-    <img alt="python icon" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
-    <img alt="vscode icon" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" />
-</p>
 
 ---
-<div align="center">
-<h3><b>Explore some of my work projects, and don't hesitate to contribute with your knowledge!</b></h3>
-  
-[![LIBFT](https://github.com/mmiguelo/42-project-badges/blob/main/badges/libftm.png)](https://github.com/mmiguelo/LIBFT) [![FT_PRINTF](https://github.com/mmiguelo/42-project-badges/blob/main/badges/ft_printfe.png)](https://github.com/mmiguelo/ft_printf) [![BORN2BEROOT](https://github.com/mmiguelo/42-project-badges/blob/main/badges/born2berootm.png)]() [![GNL](https://github.com/mmiguelo/42-project-badges/blob/main/badges/get_next_linee.png)](https://github.com/mmiguelo/Get_next_Line) [![SO_LONG](https://github.com/mmiguelo/42-project-badges/blob/main/badges/so_longe.png)](https://github.com/mmiguelo/so_long) [![PUSH_SWAP](https://github.com/mmiguelo/42-project-badges/blob/main/badges/push_swape.png)](https://github.com/mmiguelo/Push_Swap) [![PIPEX](https://github.com/mmiguelo/42-project-badges/blob/main/badges/pipexm.png)](https://github.com/mmiguelo/pipex) [![MINISHELL](https://github.com/mmiguelo/42-project-badges/blob/main/badges/minishelle.png)](https://github.com/mmiguelo/minishell) [![PHILO](https://github.com/mmiguelo/42-project-badges/blob/main/badges/philosopherse.png)](https://github.com/mmiguelo/philosophers) [![CUB3D](https://github.com/mmiguelo/42-project-badges/blob/main/badges/cub3dm.png)](https://github.com/mmiguelo/Cub3d) [![CPP](https://github.com/mmiguelo/42-project-badges/blob/main/badges/cppm.png)](https://github.com/mmiguelo/CPP_modules) [![INCEPTION](https://github.com/mmiguelo/42-project-badges/blob/main/badges/inceptionm.png)](https://github.com/mmiguelo/inception) [![WEB_SERV](https://github.com/mmiguelo/42-project-badges/blob/main/badges/webservn.png)](https://github.com/mmiguelo/Webserv)
 
-</div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmiguelo/mmiguelo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mmiguelo/mmiguelo/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mmiguelo/mmiguelo/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mmiguelo/mmiguelo/output/github-contribution-grid-snake-dark.svg">
+</p>
 
-if you liked this 🐍 animation check <a href="https://github.com/mmiguelo/profile_snake_animation">here</a> to learn how to create it and <img width="93" height="28" alt="{D4ABA366-62DB-4F7F-BAB2-BBD936B906DB}" src="https://github.com/user-attachments/assets/b1704473-f9f9-49e8-b91d-45d52347a5ee" /> it
+<p align="center">
+  If you liked this 🐍 animation, check <a href="https://github.com/mmiguelo/profile_snake_animation">here</a> to learn how to create it.
+</p>
