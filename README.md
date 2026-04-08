@@ -2,12 +2,13 @@
   <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/327af084-2cce-4c84-ba64-53cba6718a60" />
 </p>
 <br>
-I'm Marco, and you're more than welcome to join me on my coding journey!
+I’m a software developer focused on building strong foundations across systems and web development, with a particular interest in understanding how embedded systems work.
+I’m currently exploring the path of becoming a full-stack developer, combining problem-solving and creativity to build complete and impactful solutions.
 
-  - 🔭 I’m currently working on HTML projects and developing a web server
-  - 🌱 I'm also learning Embedded Systems
-  - 🏠 One of my side projects is a home automation app to control my house using my phone.
-  - 📧 [Contact me via email](mailto:marco_miguelote@hotmail.com)
+  - Currently collaborating on a platform featuring educational games that teach digital security concepts to students aged 6 to 20
+  - Expanding my knowledge in Embedded Systems
+  - Building a home automation application to control and monitor my house from my phone
+  - [Contact me via email](mailto:marco_miguelote@hotmail.com)
 <br>
 <details>
   <summary>Github Stats ⚡</summary>
