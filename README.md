@@ -22,6 +22,7 @@ I’m currently exploring the path of becoming a full-stack developer, combining
   <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" />
   <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
   <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" />
+  <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" />
   <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
   <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
   <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" />
