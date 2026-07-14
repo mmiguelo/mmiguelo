@@ -65,6 +65,10 @@ I’m currently exploring the path of becoming a full-stack developer, combining
         src="https://github-stats-extended.vercel.app/api?username=mmiguelo"
         alt="mmiguelo's GitHub stats"
       />
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs?username=mmiguelo&layout=compact&langs_count=8&hide_values=true&theme=default_repocard"
+        alt="Top Languages"
+      />
     </a>
   </p>
 </details>
