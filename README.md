@@ -60,7 +60,12 @@ I’m currently exploring the path of becoming a full-stack developer, combining
   <summary>📊 GitHub Stats</summary>
   <br>
   <p align="center">
-    [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=mmiguelo)](https://github.com/stats-organization/github-stats-extended)
+    <a href="https://github.com/stats-organization/github-stats-extended">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=mmiguelo"
+        alt="mmiguelo's GitHub stats"
+      />
+    </a>
   </p>
 </details>
 
