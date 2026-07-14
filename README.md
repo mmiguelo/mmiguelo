@@ -60,8 +60,7 @@ I’m currently exploring the path of becoming a full-stack developer, combining
   <summary>📊 GitHub Stats</summary>
   <br>
   <p align="center">
-    <img height="180em" src="./profile/stats.svg" />
-    <img height="180em" src="./profile/top-langs.svg" /> 
+    [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=mmiguelo)](https://github.com/stats-organization/github-stats-extended)
   </p>
 </details>
 
