@@ -9,8 +9,8 @@
 I’m a software developer focused on building strong foundations across systems and web development, with a particular interest in understanding how embedded systems work.
 I’m currently exploring the path of becoming a full-stack developer, combining problem-solving and creativity to build complete and impactful solutions.
 
-* 🔭 Currently collaborating on a platform featuring educational games that teach digital security concepts to students aged 6 to 20
-* 🌱 Expanding my knowledge in Embedded Systems
+* 🔭 Currently creating a personal calendar app, with shared calendars for families and friends planned as the next feature
+* 🌱 Expanding my knowledge in mobile (dart) aswell
 * 🏠 Building a home automation application to control and monitor my house from my phone
 * 📧 [Contact me via email](mailto:marco_miguelote@hotmail.com)
 
