@@ -53,6 +53,7 @@ I’m currently exploring the path of becoming a full-stack developer, combining
 ### 🌐 Web & Infrastructure
 
 * [webserv](https://github.com/mmiguelo/Webserv) — HTTP server built in C++
+* [Transcendence — Trippie](https://github.com/mmiguelo/Transcendence) — Full-stack travel planning and social platform for organizing trips, building itineraries, tracking visited countries, and connecting with other travelers
 
 ---
 
